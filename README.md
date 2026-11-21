@@ -159,6 +159,8 @@ That requires measurement, experimentation, and a willingness to reconsider abst
 
 We will make mistakes.
 
+**Correct at construction does not mean correct on the first attempt. It means that what we learn becomes part of how the next attempt is constructed.**
+
 We will build things that turn out to be unnecessarily complicated, discover better representations, and occasionally find that an entire implementation should be replaced.
 
 That is part of learning.
